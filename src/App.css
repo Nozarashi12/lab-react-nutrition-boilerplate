@@ -1,0 +1,52 @@
+body{
+  color: black;
+  background-color: white;
+}
+
+img{
+  height: 100px;
+}
+
+.box{
+  display: flex; 
+  margin-bottom: 20px;
+  width: 900px;
+  align-items: center;
+  /* border: 1px solid black; */
+}
+
+
+article{
+  /* background-color: lightblue; */
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-around;
+  width: 600px;
+  justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+  border: 1px solid black;
+  margin-right: 50px;
+
+
+}
+
+
+
+.media-content{
+  /* border: 1px solid blue; */
+  width: 100px;
+}
+
+.has-addons{
+  /* border: 1px solid green; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 190px;
+}
+
+.button{
+  /* height: 12px; */
+  border-radius: 0px;
+}
